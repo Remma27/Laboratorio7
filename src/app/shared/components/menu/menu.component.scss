@@ -1,0 +1,19 @@
+*{
+  background-color: #9C27B0;
+  text-align: center;
+}
+ul{
+  margin: 0px;
+}
+ul>li>a{
+  text-decoration: none;
+  color: white;
+  margin: 40px;
+  padding: 5px;
+}
+
+ul>li{
+list-style: none;
+display: inline-block;
+padding: 10px 10px;
+}
